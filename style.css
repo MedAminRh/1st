@@ -207,7 +207,8 @@ label{
     font-size: 25px;
     font-weight: 900;
 }
-.ct{margin-top: 40vh;
+.ct{
+    margin-top: 60vh;
     background-image: linear-gradient(to left, #e8aa67, #faa08f, #f1a3b8, #d5add3, #b8b8d9);
 }
 #pic4{
